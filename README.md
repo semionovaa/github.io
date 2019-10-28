@@ -11,14 +11,14 @@
 
 #### Пекарь при помощи духовки, используя ингридиенты, выпекает вишнёвую булочку, придерживаясь рецепта.
 
-* [IDEF0-диаграмма в формате .rsf](https://github.com/semionovaa/github.io/blob/master/%D0%B0%D0%B0%D0%B0.jpg)
+* [IDEF0-диаграмма в формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-1-1_Semionova.rsf)
 
 ### Создание диаграммы классов и диаграммы прецедентов "Выпечь вишнёвую булочку" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
 #### Пекарю необходимо выпечь вишнёвую булочку. 
 
-* [Текст](https://github.com/semionovaa/github.io/blob/master/%D1%82%D0%B5%D0%BA%D1%81%D1%821.txt) и [рисунок](https://github.com/semionovaa/github.io/blob/master/c120uJ4gk6U%D0%B1.jpg) Диаграммы классов<br>
-![none](https://github.com/semionovaa/github.io/blob/master/c120uJ4gk6U%D0%B1.jpg)
+* [Текст](https://github.com/semionovaa/github.io/blob/master/%D1%82%D0%B5%D0%BA%D1%81%D1%82.txt) и [рисунок](https://github.com/semionovaa/github.io/blob/master/%D0%B0%D0%B0%D0%B0.jpg) Диаграммы классов<br>
+![none](https://github.com/semionovaa/github.io/blob/master/%D0%B0%D0%B0%D0%B0.jpg)
 
 #### Сотрудник являтеся человеком, владеющим ПК. Сотрудник умеет вести учёт поступающей компьютерной техники в соответствии с правилами и приказами.
 
