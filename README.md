@@ -31,19 +31,19 @@
 
 * IDEF0-диаграмма (блок A0)
 
-![none](https://github.com/z-lis/z-lis.github.io/blob/master/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C(2-1).PNG)
+![none](https://github.com/semionovaa/github.io/blob/master/1.png)
 
 * IDEF0-диаграмма (блоки A1, A2, A3)
 
-![none](https://github.com/z-lis/z-lis.github.io/blob/master/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C(2-2).PNG)
+![none](https://github.com/semionovaa/github.io/blob/master/2.png)
 
 ### Определение автоматизируемых видов деятельности
 
 * DFD-диаграмма "Составление отчёта" (блок A3-03)
 
-![none](https://github.com/z-lis/z-lis.github.io/blob/master/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C(2-3).PNG)
+![none](https://github.com/semionovaa/github.io/blob/master/3.png)
 
-* [Диаграмма формате .rsf](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip(2).rsf)
+* [Диаграмма формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-2_3_Semionova.rsf)
 
 ### Описание участников автоматизируемой деятельности
 
