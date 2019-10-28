@@ -17,8 +17,8 @@
 
 #### Пекарю необходимо выпечь вишнёвую булочку. 
 
-* [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip.txt) и [рисунок](http://www.plantuml.com/plantuml/png/JP11IiD058RNdLCykbBm4BLUm9th8HbiwBGZCoakH0Wf8e8eRhjGn0i4CJYcRRp2_sxaYuFW8kJb-_zyZvb9ABKlLmkhmhnONcYl5vHP7G9TgT5KP_DpxrRB_CHPv-biLfH6ZOwzTvU9JArKfEXyRln_TAsIPOnNz5npnMjyO8-8RamwqAdu2I_OA3nBVCjFN1FU_eOEFNRuvdj-u1ejLzWB-QBVZvlaGIGP6f9QXLRimploetIYP0VO90csadQoP2soEydQes5pdtuSH0q-vTaHOc8DteLl1tOe9vaLkQ6iy9arQcAMkTpM3m00) Диаграммы классов<br>
-![none](http://www.plantuml.com/plantuml/png/JP11IiD058RNdLCykbBm4BLUm9th8HbiwBGZCoakH0Wf8e8eRhjGn0i4CJYcRRp2_sxaYuFW8kJb-_zyZvb9ABKlLmkhmhnONcYl5vHP7G9TgT5KP_DpxrRB_CHPv-biLfH6ZOwzTvU9JArKfEXyRln_TAsIPOnNz5npnMjyO8-8RamwqAdu2I_OA3nBVCjFN1FU_eOEFNRuvdj-u1ejLzWB-QBVZvlaGIGP6f9QXLRimploetIYP0VO90csadQoP2soEydQes5pdtuSH0q-vTaHOc8DteLl1tOe9vaLkQ6iy9arQcAMkTpM3m00)
+* [Текст](https://github.com/semionovaa/github.io/blob/master/%D1%82%D0%B5%D0%BA%D1%81%D1%821.txt) и [рисунок](https://github.com/semionovaa/github.io/blob/master/c120uJ4gk6U%D0%B1.jpg) Диаграммы классов<br>
+![none](https://github.com/semionovaa/github.io/blob/master/c120uJ4gk6U%D0%B1.jpg)
 
 #### Сотрудник являтеся человеком, владеющим ПК. Сотрудник умеет вести учёт поступающей компьютерной техники в соответствии с правилами и приказами.
 
