@@ -20,10 +20,10 @@
 * [Текст](https://github.com/semionovaa/github.io/blob/master/%D1%82%D0%B5%D0%BA%D1%81%D1%82.txt) и [рисунок](https://github.com/semionovaa/github.io/blob/master/%D0%B0%D0%B0%D0%B0.jpg) Диаграммы классов<br>
 ![none](https://github.com/semionovaa/github.io/blob/master/%D0%B0%D0%B0%D0%B0.jpg)
 
-#### Сотрудник являтеся человеком, владеющим ПК. Сотрудник умеет вести учёт поступающей компьютерной техники в соответствии с правилами и приказами.
+#### Пекарь являтеся человеком, владеющим инструментом (духовкой). Пекарь умеет выпекать булочки используя ингридиенты и придерживаясь рецепта.
 
-* [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip(p).txt) и [рисунок](http://www.plantuml.com/plantuml/png/fP71IiD048RFtQSOSj93mGSGQUeva9ld9LdRq3GhamqUh50ZuaK4Rzv4F7WN2xMQ-0epR-JKJI7t7fQT_VwVdt-PKUaqkcgUgtAM5HSQzHnquYp2bHgCTJAReAsAzDJcWiwccJDg42BQIq_6kLZ4Q34rs4VNlRogD8akpTw9kJbtu2nWDfawI3CqYSjieNpV-0Xq2G6zqug-gQKFkJT19qQT-4mDtt3DIxwb7p4qNEyiiNUyKjlfdzJGkXVXzPSjsVqezEoDx_c9Qw0DjHBxom_yo3MjU4cDa2_uVzpvF5e7AeRX40x2GoLdEqPAsXylP8fL961n8etLo1IfREOF) Диаграммы прецедентов<br>
-![none](http://www.plantuml.com/plantuml/png/fP71IiD048RFtQSOSj93mGSGQUeva9ld9LdRq3GhamqUh50ZuaK4Rzv4F7WN2xMQ-0epR-JKJI7t7fQT_VwVdt-PKUaqkcgUgtAM5HSQzHnquYp2bHgCTJAReAsAzDJcWiwccJDg42BQIq_6kLZ4Q34rs4VNlRogD8akpTw9kJbtu2nWDfawI3CqYSjieNpV-0Xq2G6zqug-gQKFkJT19qQT-4mDtt3DIxwb7p4qNEyiiNUyKjlfdzJGkXVXzPSjsVqezEoDx_c9Qw0DjHBxom_yo3MjU4cDa2_uVzpvF5e7AeRX40x2GoLdEqPAsXylP8fL961n8etLo1IfREOF)
+* [Текст](https://github.com/semionovaa/github.io/blob/master/%D1%82%D0%B5%D0%BA%D1%81%D1%821.txt) и [рисунок](https://github.com/semionovaa/github.io/blob/master/c120uJ4gk6U%D0%B1.jpg) Диаграммы прецедентов<br>
+![none](https://github.com/semionovaa/github.io/blob/master/c120uJ4gk6U%D0%B1.jpg)
 ***
 ## Лабораторная работа №2
 
