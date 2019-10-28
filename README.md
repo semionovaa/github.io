@@ -33,7 +33,7 @@
 
 ![none](https://github.com/semionovaa/github.io/blob/master/1.png)
 
-* IDEF0-диаграмма (блоки A1, A2, A3)
+* IDEF0-диаграмма (блоки A1, A2, A3, A4)
 
 ![none](https://github.com/semionovaa/github.io/blob/master/2.png)
 
