@@ -43,7 +43,7 @@
 
 ![none](https://github.com/semionovaa/github.io/blob/master/3.png)
 
-* [Диаграмма формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-2_3_Semionova.rsf)
+* [Диаграмма формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-2_1_Semionova.rsf)
 
 ### Описание участников автоматизируемой деятельности
 
