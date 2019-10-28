@@ -9,13 +9,13 @@
 
 ![none](https://github.com/semionovaa/github.io/blob/master/%D0%B2%D0%B0%D0%B2.jpg)
 
-#### Сотрудник при помощи ПК ведёт учёт комплектующих, поступающих на предприятие, соблюдая приказы и правила, после чего составляет отчёт.
+#### Пекарь при помощи духовки, используя ингридиенты, выпекает вишнёвую булочку, придерживаясь рецепта.
 
-* [IDEF0-диаграмма в формате .rsf](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip.rsf)
+* [IDEF0-диаграмма в формате .rsf](https://github.com/semionovaa/github.io/blob/master/%D0%B0%D0%B0%D0%B0.jpg)
 
-### Создание диаграммы классов и диаграммы прецедентов "Учёт компьютерной техники на предприятии" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
+### Создание диаграммы классов и диаграммы прецедентов "Выпечь вишнёвую булочку" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
-#### На предприятии ведётся учёт поступающей компьютеной техники. 
+#### Пекарю необходимо выпечь вишнёвую булочку. 
 
 * [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip.txt) и [рисунок](http://www.plantuml.com/plantuml/png/JP11IiD058RNdLCykbBm4BLUm9th8HbiwBGZCoakH0Wf8e8eRhjGn0i4CJYcRRp2_sxaYuFW8kJb-_zyZvb9ABKlLmkhmhnONcYl5vHP7G9TgT5KP_DpxrRB_CHPv-biLfH6ZOwzTvU9JArKfEXyRln_TAsIPOnNz5npnMjyO8-8RamwqAdu2I_OA3nBVCjFN1FU_eOEFNRuvdj-u1ejLzWB-QBVZvlaGIGP6f9QXLRimploetIYP0VO90csadQoP2soEydQes5pdtuSH0q-vTaHOc8DteLl1tOe9vaLkQ6iy9arQcAMkTpM3m00) Диаграммы классов<br>
 ![none](http://www.plantuml.com/plantuml/png/JP11IiD058RNdLCykbBm4BLUm9th8HbiwBGZCoakH0Wf8e8eRhjGn0i4CJYcRRp2_sxaYuFW8kJb-_zyZvb9ABKlLmkhmhnONcYl5vHP7G9TgT5KP_DpxrRB_CHPv-biLfH6ZOwzTvU9JArKfEXyRln_TAsIPOnNz5npnMjyO8-8RamwqAdu2I_OA3nBVCjFN1FU_eOEFNRuvdj-u1ejLzWB-QBVZvlaGIGP6f9QXLRimploetIYP0VO90csadQoP2soEydQes5pdtuSH0q-vTaHOc8DteLl1tOe9vaLkQ6iy9arQcAMkTpM3m00)
