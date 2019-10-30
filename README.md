@@ -35,7 +35,7 @@
 
 * IDEF0-диаграмма (блоки A1, A2, A3, A4)
 
-![none](https://github.com/semionovaa/github.io/blob/master/2_2.png)
+![none](https://github.com/semionovaa/github.io/blob/master/2.png)
 
 ### Определение автоматизируемых видов деятельности
 
