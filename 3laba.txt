@@ -1,0 +1,20 @@
+@startuml
+actor "Руководитель" as p
+database "Данные о заказах" as q
+participant "Правила" as m
+participant "Заказ" as d
+actor "Сотрудник" as cd
+database "БД Заказ" as t
+p -> q : Сбор данных
+q -> p 
+p -> m : Проверка на соответствие
+m -> p
+p -> d : Сбор заказа
+d -> cd
+activate cd
+cd -> m : Повторная проверка заказа на соответствие
+m -> cd
+cd -> p : Отправка на переделывание (при необходимости)
+cd -> t : Выполнение заказа
+deactivate cd
+@enduml
