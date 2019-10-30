@@ -58,9 +58,9 @@
 
 * DFD-диаграмма "Оформление поставок" (блок A1-03)
 
-![none](https://github.com/z-lis/z-lis.github.io/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+![none](https://github.com/semionovaa/github.io/blob/master/3_laba_diagrama.png)
 
-* [Диаграмма формате .rsf](https://github.com/z-lis/z-lis.github.io/blob/master/comp%20equip(3).rsf)
+* [Диаграмма формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-3_Semionova.rsf)
 
 ### Описание взаимодействия участников автоматизируемой деятельности
 
