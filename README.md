@@ -47,9 +47,9 @@
 
 ### Описание участников автоматизируемой деятельности
 
-* [Текст](https://github.com/semionovaa/github.io/blob/master/2laba.txt) и [рисунок](https://github.com/semionovaa/github.io/blob/master/2_laba_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B8.png)
+* [Текст](https://github.com/semionovaa/github.io/blob/master/2laba.txt) и [рисунок](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuRAwiE1YyuLT5_PTs0J4MoxikDXqOUk5tHTxh1HqTUqKD2xCkzXoOT_5XWjxBkm6IkoziEF2LeKBsozi0EhP0AI1-ZGL29io_s83M78ha0PgH3PX0rZ_Gg0bJHSRWAPi0Lko2weJAB4HA4MiBihjctIn6oYquM8xkYukXzIy552G0G00)
 диаграммы прецедентов<br>
-![none](http://www.plantuml.com/plantuml/uml/SoWkIImgAStDuRAwiE1YyuLT5_PTs0J4MoxikDXqOUk5tHTxh1HqTUqKD2xCkzXoOT_5XWjxBkm6IkoziEF2LeKBsozi0EhP0AI1-ZGL29io_s83M78ha0PgH3PX0rZ_Gg0bJHSRWAPi0Lko2weJAB4HA4MiBihjctIn6oYquM8xkYukXzIy552G0G00)
+![none](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuRAwiE1YyuLT5_PTs0J4MoxikDXqOUk5tHTxh1HqTUqKD2xCkzXoOT_5XWjxBkm6IkoziEF2LeKBsozi0EhP0AI1-ZGL29io_s83M78ha0PgH3PX0rZ_Gg0bJHSRWAPi0Lko2weJAB4HA4MiBihjctIn6oYquM8xkYukXzIy552G0G00)
 ***
 
 ## Лабораторная работа №3
