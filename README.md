@@ -31,11 +31,11 @@
 
 * IDEF0-диаграмма (блок A0)
 
-![none](https://github.com/semionovaa/github.io/blob/master/1.png)
+![none](https://github.com/semionovaa/github.io/blob/master/2_1.png)
 
 * IDEF0-диаграмма (блоки A1, A2, A3, A4)
 
-![none](https://github.com/semionovaa/github.io/blob/master/2.png)
+![none](https://github.com/semionovaa/github.io/blob/master/2_2.png)
 
 ### Определение автоматизируемых видов деятельности
 
@@ -43,7 +43,7 @@
 
 ![none](https://github.com/semionovaa/github.io/blob/master/3.png)
 
-* [Диаграмма формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-2_1_Semionova.rsf)
+* [Диаграмма формате .rsf](https://github.com/semionovaa/github.io/blob/master/LABA-2_Semionova.rsf)
 
 ### Описание участников автоматизируемой деятельности
 
