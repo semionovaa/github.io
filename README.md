@@ -47,9 +47,9 @@
 
 ### Описание участников автоматизируемой деятельности
 
-* [Текст](https://github.com/z-lis/z-lis.github.io/blob/master/laba%202.txt) и [рисунок](http://www.plantuml.com/plantuml/png/bP0z3e9058HxJx6b5bo0md0L4-tKGh67HKDZOs-CXWlu0mPtTRd2p8ryeN4hbU9LC_FjbusMyMWHhsRJNeWZCnWuNELArDIeOBaDLH0CLHy7hk6Ou0ahmGirAeK6Zgaqp-tA37vZ2kRSKV_HF7bixqb7tI8a40Zsa4Ikn1qLaowsN-QUPO66oKU2kVHI6DHuA5oOSOERn9OQ0kWY7qtcO_dwDm00)
+* [Текст](https://github.com/semionovaa/github.io/blob/master/2laba.txt) и [рисунок](https://github.com/semionovaa/github.io/blob/master/2_laba_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B8.png)
 диаграммы прецедентов<br>
-![none](http://www.plantuml.com/plantuml/png/bP0z3e9058HxJx6b5bo0md0L4-tKGh67HKDZOs-CXWlu0mPtTRd2p8ryeN4hbU9LC_FjbusMyMWHhsRJNeWZCnWuNELArDIeOBaDLH0CLHy7hk6Ou0ahmGirAeK6Zgaqp-tA37vZ2kRSKV_HF7bixqb7tI8a40Zsa4Ikn1qLaowsN-QUPO66oKU2kVHI6DHuA5oOSOERn9OQ0kWY7qtcO_dwDm00)
+![none](http://www.plantuml.com/plantuml/uml/SoWkIImgAStDuRAwiE1YyuLT5_PTs0J4MoxikDXqOUk5tHTxh1HqTUqKD2xCkzXoOT_5XWjxBkm6IkoziEF2LeKBsozi0EhP0AI1-ZGL29io_s83M78ha0PgH3PX0rZ_Gg0bJHSRWAPi0Lko2weJAB4HA4MiBihjctIn6oYquM8xkYukXzIy552G0G00)
 ***
 
 ## Лабораторная работа №3
